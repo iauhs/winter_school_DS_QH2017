@@ -31,3 +31,10 @@ Thanks to the winner team of Kaggle, Xinlin and Wanghao, to share us their [code
 
 If you want to share us your solution or your notes of the winter school please contact me : shuai2wang@gmail.com, or push it directly with github.
 
+
+
+
+
+Winner Solution ：https://github.com/iauhs/winter_school_DS_QH2017/tree/master/winner_solution
+
+Solution of Liyumeng ：https://github.com/liyumeng/LinkPrediction
