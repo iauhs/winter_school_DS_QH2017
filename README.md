@@ -29,5 +29,5 @@ The steps to be taken are: 
 
 Thanks to the winner team of Kaggle, Xinlin and Wanghao, to share us their [code and presentation](https://github.com/iauhs/winter_school_DS_QH2017/tree/master/winner_solution).
 
-If you want to share us your solution ou your notes of the winter school please contact me : shuai2wang@gmail.com, or push it directly with github.
+If you want to share us your solution or your notes of the winter school please contact me : shuai2wang@gmail.com, or push it directly with github.
 
