@@ -38,3 +38,7 @@ If you want to share us your solution or your notes of the winter school please 
 Winner Solution ：https://github.com/iauhs/winter_school_DS_QH2017/tree/master/winner_solution
 
 Solution of Liyumeng ：https://github.com/liyumeng/LinkPrediction
+
+
+
+![](https://ww1.sinaimg.cn/large/006y8lVagy1fbzrkf1q3ij30zk0qoacd.jpg)
